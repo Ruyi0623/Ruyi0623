@@ -38,8 +38,9 @@
 ### ⚡ At a Glance
 
 <p align="left">
- ![Repos](https://img.shields.io/badge/Public%20Repos-blue?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Total%20Stars-yellow?style=for-the-badge&logo=github&logoColor=black)
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRuyi0623&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRuyi0623&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/followers/Ruyi0623?style=flat-square&logo=github&color=blue" />
 </p>
 
 ---
