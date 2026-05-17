@@ -30,18 +30,16 @@
 
 | Project | Description | Links |
 |:---|:---|:---|
-| **[project-one](https://github.com/Ruyi0623/project-one)** | A short description of what this project does. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/project-one?style=social) |
-| **[project-two](https://github.com/Ruyi0623/project-two)** | Another project description. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/project-two?style=social) |
-| **[project-three](https://github.com/Ruyi0623/project-three)** | Brief overview of this project. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/project-three?style=social) |
+| **[Fuxi-OM](https://github.com/Ruyi0623/FuxiOpsMaster)** | An LLM purpose‑built for server operations and automation scripting | ![Stars](https://img.shields.io/github/stars/Ruyi0623/FuxiOpsMaster?style=social) |
+| **[SuperMD](https://github.com/Ruyi0623/SuperMD)** | Professional Markdown Documentation Crafter. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/SuperMD?style=social) |
 
 ---
 
 ### ⚡ At a Glance
 
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRuyi0623&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRuyi0623&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/followers/Ruyi0623?style=flat-square&logo=github&color=blue" />
+ ![Repos](https://img.shields.io/badge/Public%20Repos-blue?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Total%20Stars-yellow?style=for-the-badge&logo=github&logoColor=black)
 </p>
 
 ---
