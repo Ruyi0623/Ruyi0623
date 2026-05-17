@@ -1,68 +1,60 @@
-# 你好，我是 Ruyi 👋
-
-> 一个热爱技术、喜欢创造价值的开发者。
-
-[![GitHub 关注者](https://img.shields.io/github/followers/Ruyi0623?label=关注&style=social)](https://github.com/Ruyi0623)
-[![访客数](https://views.whatilearened.today/views/github/Ruyi0623/Ruyi.svg)](https://github.com/Ruyi0623)
+<div align="center">
+  <h1>Hi, I'm [你的名字/昵称] 👋</h1>
+  <p>
+    <samp>
+      全栈工程师 · 开源爱好者 · 终身学习者
+    </samp>
+  </p>
+</div>
 
 ---
 
-### 🧑‍💻 关于我
+### 👨‍💻 关于我
 
-- 🔭 目前在忙：**一个有趣的开源项目**
-- 🌱 正在学习：**Rust / 系统编程 / AI 应用**
-- 💬 可以问我：**前端开发、React、技术成长**
-- 📫 联系邮箱：**yhwnb66@gmail.com**
-- ⚡ 一句话介绍：**写代码时喜欢听 Lofi，咖啡重度爱好者**
+- 🔭 **正在做**：[你当前的主项目或工作，例如：一个自动化运维平台]
+- 🌱 **正在学**：[你正在钻研的新技术，例如：Rust & 系统编程]
+- 💬 **随便问**：[你擅长的技术领域，例如：React 生态、Node.js 性能优化]
+- ⚡ **冷知识**：[一句关于你的有趣事实，例如：我的第一行代码是在手机上写的]
+- 📫 **找到我**：[你的邮箱，例如：name@example.com]
 
 ---
 
 ### 🛠️ 技术栈
 
+**日常主力**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**也玩过**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ---
 
-### 📊 GitHub 统计
+### 📊 这周写了什么
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruyi0623&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyi0623&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub 奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruyi0623&theme=radical&no-frame=true&row=1&column=7" />
-</div>
+<!-- 如果你想用 WakaTime 统计，替换下面 username 即可；不想用就删掉这部分 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=你的WakaTime用户名&layout=compact&theme=graywhite" alt="WakaTime 统计" />
+</p>
 
 ---
 
-### 📌 精选项目
+### ⚡ GitHub 足迹
 
-*这部分建议去仓库页面手动置顶你最得意的项目，这里放一句话引导即可。*
-
-> 👉 往下看，置顶的那些项目就是我最近的心血。
-
----
-
-### 🤝 联系我
-
-[![邮箱](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhwnb66@gmail.com)
-[![博客](https://img.shields.io/badge/-博客-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://你的博客链接)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ruyi0623)
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&count_private=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&hide_title=true&hide_border=true&theme=graywhite" />
+</p>
 
 ---
 
 <p align="center">
-  <i>感谢来访！如果我的项目对你有帮助，欢迎点个 Star ⭐</i>
+  <samp>感谢你的驻足，祝你今天愉快 ☕</samp>
 </p>
