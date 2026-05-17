@@ -36,12 +36,12 @@
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ At a Glance
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Ruyi0623&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&count_private=true" />
-  <!-- 比如这样 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ruyi0623&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRuyi0623&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRuyi0623&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/followers/Ruyi0623?style=flat-square&logo=github&color=blue" />
 </p>
 
 ---
