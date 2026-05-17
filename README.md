@@ -40,7 +40,8 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Ruyi0623&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyi0623&layout=compact&hide_title=true&hide_border=true&theme=graywhite" />
+  <!-- 比如这样 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ruyi0623&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
 </p>
 
 ---
