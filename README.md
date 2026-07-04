@@ -32,6 +32,7 @@
 |:---|:---|:---|
 | **[Fuxi-OM](https://github.com/Ruyi0623/FuxiOpsMaster)** | An LLM purpose‑built for server operations and automation scripting | ![Stars](https://img.shields.io/github/stars/Ruyi0623/FuxiOpsMaster?style=social) |
 | **[SuperMD](https://github.com/Ruyi0623/SuperMD)** | Professional Markdown Documentation Crafter. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/SuperMD?style=social) |
+| **[EWT360](https://github.com/Ruyi0623/ewt360)** | A report on the interface and security analysis based on the EWT360 platform. | ![Stars](https://img.shields.io/github/stars/Ruyi0623/ewt360?style=social) |
 
 ---
 
