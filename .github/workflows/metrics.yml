@@ -16,7 +16,10 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # A personal token is required for personal data (repos, languages).
+          # Create one at https://github.com/settings/tokens (scopes: read:user, public_repo)
+          # and add it as the repository secret METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: Ruyi0623
